@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as tecnologias:
 Página de viagem utilizando HTML e CSS, com layout feito no Figma.
 
 ## Layout
-O layout foi feito no Figma e segue o padrão de layout responsivo.
+O layout foi feito no Figma.
 
 ## Demonstração
 https://projeto-local-turistico.vercel.app/
